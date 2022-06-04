@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "iot-gas-app",
+    "name": "IoT Gas App",
     "slug": "iot-gas-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/Cha-er-si/Iot-Gas-App.git"
   }
 }
